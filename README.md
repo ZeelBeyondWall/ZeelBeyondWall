@@ -1,47 +1,54 @@
 # Zeel Tony ⚔️
 
-Breaking walls, not builds.  
-If it compiles, I move forward.  
-Tatakae.
+Breaking walls. Shipping systems.  
+If it compiles, I advance.  
+**Tatakae.**
 
 ---
 
-## About
+## About Me
 
-I’m a developer who enjoys building things that actually work in real conditions, not just on paper.
+I’m a developer who likes building things that survive **real conditions**, not just demo environments.
 
-Right now, I’m freelancing with **ASTA Trading Firm** (Powered by Tradebulls), where I mostly work on:
-- Trading terminals  
-- Algo-based systems  
-- Internal tools used by traders  
+Currently freelancing with **ASTA Trading Firm** (Powered by Tradebulls), where I work on:
+- Trading terminals & dashboards  
+- Algo-based execution systems  
+- Internal tools used by active traders  
 
-Most of my work stays private ... client trust comes first.
+Most of my work stays private.  
+Trust > visibility.
 
 ---
 
-## What I Do
+## What I Actually Do
 
-I spend most of my time:
-- Turning ideas into usable systems  
-- Improving reliability and performance  
+I spend my time:
+- Turning raw ideas into usable systems  
+- Improving speed, reliability, and execution  
 - Fixing things that break under real load  
 
-I prefer simple, clear solutions over engineered ones.
+I value **clarity over complexity**  
+and **results over hype**.
 
 ---
 
 ## How I Think
 
-I believe progress matters more than perfection.  
-If something works and can be improved step by step, that’s good enough to move forward.
+Progress beats perfection.  
+Ship → test → improve → repeat.
+
+If it works today and can be refined tomorrow,  
+it’s good enough to move forward.
 
 ---
 
-## Notes
+## Public Repos?
 
-You won’t find many public repositories here.  
-Not because I don’t build, but because most of what I build is meant to stay internal.
+You won’t see many here.  
+Not because I don’t build —  
+but because most of what I build isn’t meant to be public.
 
 ---
 
-Beyond the wall. One commit at a time.
+Beyond the wall.  
+One commit at a time.
