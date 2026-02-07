@@ -45,7 +45,7 @@ it’s good enough to move forward.
 ## Public Repos?
 
 You won’t see many here.  
-Not because I don’t build —  
+Not because I don’t build -
 but because most of what I build isn’t meant to be public.
 
 ---
