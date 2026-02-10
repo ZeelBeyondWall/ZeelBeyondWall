@@ -32,7 +32,7 @@ But public repos reflect my approach to clean, practical, and reliable engineeri
 
 ## Let’s Connect
 - LinkedIn: [linkedin.com/in/zeel-mevada-56a19623b](https://www.linkedin.com/in/zeel-mevada-56a19623b/)
-- Email: **your-email@example.com**
+- Email: **zeelmevada263@gmail.com**
 - Open to: **Freelance / Contract**
 
 If you’re building systems where speed + reliability matter, feel free to reach out.
