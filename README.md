@@ -1,38 +1,40 @@
 # Zeel Tony ⚔️
 
-Breaking walls. Shipping systems.  
+Breaking walls. Shipping systems.
 If it compiles, I advance. **Tatakae.**
 
 ## About Me
-I build production-grade web applications, dashboards, and execution systems that survive real conditions — not just demo environments.
+Founder of **Yuno Fintech**. I build the trading tech behind it, end to end —
+from the order engine to the screen the trader looks at.
 
-Currently freelancing with **YUNO Trading Firm (Powered by Tradebulls)**, working on:
-- Trading terminals & dashboards
-- Algo-assisted execution systems
-- Internal tools used by active traders
+Also building in collaboration with **YUNO Trading**.
 
-Most of my client work is private. **Trust > visibility.**
+## What I Build
+- **Algo execution systems**: signal → orders across many broker accounts at once, live and paper,
+  with stops, targets and trailing handled in code
+- **Trading terminals**: positions, order books, P&L and reports, all live
+- **Dashboards**: real-time market data, portfolio and strategy analytics
+- **Backtesting & strategy tools**: rule builders, screeners, strike selection
+- **Apps**: client-facing app for paper trading and strategy control
+- **Infra**: Linux servers, hardened deploys, monitoring, encrypted backups
 
-## What I Actually Do
-- Turn raw ideas into usable systems
-- Improve speed, reliability, and execution quality
-- Fix bottlenecks that break under real load
-- Integrate APIs for real-time workflows
+Built for Indian markets (NSE · BSE · MCX), running live every trading day.
 
-I value **clarity over complexity** and **results over hype**.
+## How I Work
+- Real money, real load — not demo environments
+- Speed, reliability and execution quality first
+- Clarity over complexity. Results over hype.
 
-## Public Repositories
-You won't see everything here — most production projects are private.
-But public repos reflect my approach to clean, practical, and reliable engineering.
+Most production work is private. **Trust > visibility.**
 
 ## Tech I Use Often
-`React` `TypeScript` `Node.js` `Python` `REST APIs` `Automation` `Dashboards` `Web Terminals`
+`Node.js` `Python` `JavaScript` `TypeScript` `React` `WebSockets` `REST APIs` `Broker APIs` `Linux` `nginx` `pm2` `Playwright`
 
 ---
 
 ## Let's Connect
 - LinkedIn: [linkedin.com/in/zeel-mevada-56a19623b](https://www.linkedin.com/in/zeel-mevada-56a19623b/)
 - Email: **zeelmevada263@gmail.com**
-- Open to: **Freelance / Contract**
+- Open to: **Partnerships · B2B builds · Collaborations**
 
-If you're building systems where speed + reliability matter, feel free to reach out.
+If you're building systems where speed + reliability matter, let's talk.
